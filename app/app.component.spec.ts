@@ -48,8 +48,6 @@ describe('Integration::AppComponent', () => {
   });
 });
 
-//
-
 function setup () {
   
   TestBed.configureTestingModule({
